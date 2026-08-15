@@ -27,14 +27,14 @@ def main() -> None:
     st.caption("From opportunity data to an executive decision view.")
     rate, rate_date, rate_source = cached_exchange_rate()
     with st.sidebar:
-        st.header("Display settings")
-        currency = st.radio("Currency", ["USD", "INR"], horizontal=True)
+        st.header("Currency conversion")
+        currency = "INR"
         if st.button("Refresh USD → INR rate"):
             cached_exchange_rate.clear()
             st.rerun()
         st.caption(f"{rate_source} · 1 USD = ₹{rate:,.2f} · {rate_date}")
         st.divider()
-        st.caption("Currency conversion affects displayed values only; source calculations stay in USD.")
+        st.caption("All monetary values are displayed in INR; source values remain in USD.")
     ingestion_tab, exploration_tab, intelligence_tab = st.tabs(["1 · Data ingestion", "2 · Data exploration", "3 · Decision making"])
     with ingestion_tab:
         data = ingestion.render(SAMPLE_DATA)
