@@ -1,0 +1,61 @@
+Opportunity ID,Opportunity Name,Account,Territory,Country,City,Sales Rep,Stage,Amount ($),Probability %,Weighted Pipeline ($),Close Date,Created Date,Product,Industry,Opportunity Type
+OPP-2026-0001,Mumbai Systems 01 - Cloud Database,Mumbai Systems 01,West,India,Mumbai,Aarav Shah,Closed Lost,13333.33,0.0,0.0,2026-05-25,2026-03-04,Cloud Database,Technology,New Business
+OPP-2026-0002,Bengaluru Enterprises 02 - Cloud Database,Bengaluru Enterprises 02,South,India,Bengaluru,Ananya Iyer,Negotiation,3888.89,0.65,2527.78,2026-04-14,2026-01-24,Cloud Database,Telecom,Renewal
+OPP-2026-0003,Gurugram Enterprises 03 - Cloud Security,Gurugram Enterprises 03,North,India,Gurugram,Vikram Bhatia,Closed Lost,33333.33,0.0,0.0,2026-07-08,2026-04-18,Cloud Security,Telecom,Expansion
+OPP-2026-0004,Bhubaneswar Digital 04 - Data & AI,Bhubaneswar Digital 04,East,India,Bhubaneswar,Madhurima Roy,Negotiation,13333.33,0.75,10000.0,2026-09-15,2026-02-09,Data & AI,Retail,New Business
+OPP-2026-0005,Mumbai Digital 05 - Cloud Security,Mumbai Digital 05,West,India,Mumbai,Neha Patel,Proposal,13333.33,0.6,8000.0,2026-08-31,2026-07-26,Cloud Security,Telecom,New Business
+OPP-2026-0006,Bengaluru Holdings 06 - OCI Infrastructure,Bengaluru Holdings 06,South,India,Bengaluru,Ananya Iyer,Proposal,16666.67,0.6,10000.0,2026-08-10,2026-05-28,OCI Infrastructure,Retail,Renewal
+OPP-2026-0007,Noida Holdings 07 - Cloud Database,Noida Holdings 07,North,India,Noida,Arjun Singh,Qualification,72222.22,0.15,10833.33,2026-08-23,2026-04-27,Cloud Database,Healthcare,Expansion
+OPP-2026-0008,Patna Holdings 08 - Cloud Database,Patna Holdings 08,East,India,Patna,Madhurima Roy,Closed Lost,66666.67,0.0,0.0,2026-07-18,2026-01-19,Cloud Database,Telecom,Renewal
+OPP-2026-0009,Pune Enterprises 09 - Cloud Database,Pune Enterprises 09,West,India,Pune,Neha Patel,Negotiation,66666.67,0.75,50000.0,2026-07-31,2026-06-26,Cloud Database,Technology,Expansion
+OPP-2026-0010,Chennai Holdings 10 - Observability,Chennai Holdings 10,South,India,Chennai,Priya Nair,Proposal,13333.33,0.55,7333.33,2026-04-06,2026-01-17,Observability,Technology,Expansion
+OPP-2026-0011,Jaipur Systems 11 - Cloud Database,Jaipur Systems 11,North,India,Jaipur,Simran Kaur,Closed Lost,27777.78,0.0,0.0,2026-05-09,2026-02-06,Cloud Database,BFSI,Renewal
+OPP-2026-0012,Patna Systems 12 - Data & AI,Patna Systems 12,East,India,Patna,Madhurima Roy,Closed Won,22222.22,1.0,22222.22,2026-08-25,2026-05-30,Data & AI,BFSI,New Business
+OPP-2026-0013,Goa Digital 13 - Cloud Security,Goa Digital 13,West,India,Goa,Aarav Shah,Prospecting,8333.33,0.05,416.67,2026-08-14,2026-06-10,Cloud Security,Telecom,New Business
+OPP-2026-0014,Kochi Industries 14 - OCI Infrastructure,Kochi Industries 14,South,India,Kochi,Ananya Iyer,Negotiation,13333.33,0.85,11333.33,2026-06-18,2026-05-22,OCI Infrastructure,Technology,Renewal
+OPP-2026-0015,Noida Systems 15 - Data & AI,Noida Systems 15,North,India,Noida,Arjun Singh,Proposal,8333.33,0.55,4583.33,2026-05-22,2026-04-27,Data & AI,Telecom,New Business
+OPP-2026-0016,Kolkata Systems 16 - Data & AI,Kolkata Systems 16,East,India,Kolkata,Madhurima Roy,Proposal,50000.0,0.6,30000.0,2026-09-15,2026-02-20,Data & AI,Logistics,New Business
+OPP-2026-0017,Mumbai Holdings 17 - Data & AI,Mumbai Holdings 17,West,India,Mumbai,Rohan Mehta,Proposal,3888.89,0.55,2138.89,2026-05-26,2026-01-29,Data & AI,BFSI,New Business
+OPP-2026-0018,Bengaluru Digital 18 - Cloud Database,Bengaluru Digital 18,South,India,Bengaluru,Priya Nair,Closed Lost,55555.56,0.0,0.0,2026-12-22,2026-07-14,Cloud Database,BFSI,Renewal
+OPP-2026-0019,Gurugram Holdings 19 - Observability,Gurugram Holdings 19,North,India,Gurugram,Simran Kaur,Closed Won,50000.0,1.0,50000.0,2026-07-07,2026-04-19,Observability,Logistics,Renewal
+OPP-2026-0020,Patna Holdings 20 - Observability,Patna Holdings 20,East,India,Patna,Rahul Sen,Closed Lost,66666.67,0.0,0.0,2026-08-21,2026-04-06,Observability,Manufacturing,New Business
+OPP-2026-0021,Pune Enterprises 21 - Observability,Pune Enterprises 21,West,India,Pune,Aarav Shah,Proposal,50000.0,0.4,20000.0,2026-08-13,2026-05-22,Observability,BFSI,New Business
+OPP-2026-0022,Bengaluru Digital 22 - Cloud Database,Bengaluru Digital 22,South,India,Bengaluru,Priya Nair,Prospecting,16666.67,0.05,833.33,2026-07-31,2026-01-19,Cloud Database,Healthcare,Renewal
+OPP-2026-0023,Gurugram Holdings 23 - Cloud Security,Gurugram Holdings 23,North,India,Gurugram,Vikram Bhatia,Qualification,50000.0,0.35,17500.0,2026-07-28,2026-05-02,Cloud Security,Logistics,Expansion
+OPP-2026-0024,Kolkata Enterprises 24 - Cloud Security,Kolkata Enterprises 24,East,India,Kolkata,Ishita Das,Closed Lost,22222.22,0.0,0.0,2026-08-12,2026-04-01,Cloud Security,Manufacturing,Renewal
+OPP-2026-0025,Mumbai Holdings 25 - Cloud Database,Mumbai Holdings 25,West,India,Mumbai,Aarav Shah,Negotiation,5555.56,0.75,4166.67,2026-08-25,2026-03-05,Cloud Database,Telecom,Expansion
+OPP-2026-0026,Kochi Systems 26 - Observability,Kochi Systems 26,South,India,Kochi,Priya Nair,Proposal,10000.0,0.55,5500.0,2026-06-07,2026-01-20,Observability,Retail,New Business
+OPP-2026-0027,Delhi Enterprises 27 - Cloud Database,Delhi Enterprises 27,North,India,Delhi,Arjun Singh,Qualification,22222.22,0.25,5555.56,2026-09-30,2026-05-05,Cloud Database,Logistics,Expansion
+OPP-2026-0028,Bhubaneswar Systems 28 - Data & AI,Bhubaneswar Systems 28,East,India,Bhubaneswar,Rahul Sen,Prospecting,13333.33,0.15,2000.0,2026-12-08,2026-07-20,Data & AI,Manufacturing,Renewal
+OPP-2026-0029,Goa Enterprises 29 - OCI Infrastructure,Goa Enterprises 29,West,India,Goa,Aarav Shah,Qualification,55555.56,0.25,13888.89,2026-11-08,2026-05-29,OCI Infrastructure,Technology,Expansion
+OPP-2026-0030,Bengaluru Enterprises 30 - Observability,Bengaluru Enterprises 30,South,India,Bengaluru,Ananya Iyer,Negotiation,33333.33,0.85,28333.33,2026-03-21,2026-02-10,Observability,Retail,New Business
+OPP-2026-0031,Delhi Systems 31 - Observability,Delhi Systems 31,North,India,Delhi,Vikram Bhatia,Qualification,5555.56,0.3,1666.67,2026-08-22,2026-05-26,Observability,Telecom,New Business
+OPP-2026-0032,Kolkata Industries 32 - Data & AI,Kolkata Industries 32,East,India,Kolkata,Rahul Sen,Closed Lost,50000.0,0.0,0.0,2026-10-30,2026-05-25,Data & AI,Healthcare,New Business
+OPP-2026-0033,Pune Enterprises 33 - Cloud Security,Pune Enterprises 33,West,India,Pune,Neha Patel,Negotiation,66666.67,0.75,50000.0,2026-09-15,2026-06-15,Cloud Security,Healthcare,New Business
+OPP-2026-0034,Kochi Holdings 34 - Cloud Database,Kochi Holdings 34,South,India,Kochi,Ananya Iyer,Closed Won,5555.56,1.0,5555.56,2026-06-30,2026-01-19,Cloud Database,Telecom,Expansion
+OPP-2026-0035,Noida Systems 35 - Observability,Noida Systems 35,North,India,Noida,Arjun Singh,Qualification,13333.33,0.25,3333.33,2026-06-27,2026-02-10,Observability,Technology,Expansion
+OPP-2026-0036,Kolkata Enterprises 36 - Cloud Database,Kolkata Enterprises 36,East,India,Kolkata,Madhurima Roy,Closed Won,13333.33,1.0,13333.33,2026-08-09,2026-06-19,Cloud Database,Healthcare,New Business
+OPP-2026-0037,Pune Industries 37 - Cloud Database,Pune Industries 37,West,India,Pune,Neha Patel,Proposal,10000.0,0.6,6000.0,2026-07-31,2026-07-03,Cloud Database,Technology,Renewal
+OPP-2026-0038,Kochi Holdings 38 - OCI Infrastructure,Kochi Holdings 38,South,India,Kochi,Karthik Rao,Prospecting,66666.67,0.05,3333.33,2026-07-23,2026-04-19,OCI Infrastructure,Retail,Expansion
+OPP-2026-0039,Noida Enterprises 39 - Observability,Noida Enterprises 39,North,India,Noida,Arjun Singh,Closed Lost,27777.78,0.0,0.0,2026-10-03,2026-05-22,Observability,Retail,New Business
+OPP-2026-0040,Bhubaneswar Industries 40 - Cloud Security,Bhubaneswar Industries 40,East,India,Bhubaneswar,Madhurima Roy,Prospecting,50000.0,0.1,5000.0,2026-07-23,2026-05-22,Cloud Security,BFSI,New Business
+OPP-2026-0041,Ahmedabad Digital 41 - Data & AI,Ahmedabad Digital 41,West,India,Ahmedabad,Aarav Shah,Proposal,66666.67,0.5,33333.33,2026-04-25,2026-03-05,Data & AI,Logistics,Renewal
+OPP-2026-0042,Chennai Holdings 42 - Data & AI,Chennai Holdings 42,South,India,Chennai,Priya Nair,Qualification,22222.22,0.25,5555.56,2026-03-18,2026-01-07,Data & AI,Logistics,Expansion
+OPP-2026-0043,Noida Digital 43 - Cloud Security,Noida Digital 43,North,India,Noida,Arjun Singh,Closed Lost,5555.56,0.0,0.0,2026-05-12,2026-04-08,Cloud Security,BFSI,New Business
+OPP-2026-0044,Patna Industries 44 - Data & AI,Patna Industries 44,East,India,Patna,Rahul Sen,Qualification,88888.89,0.25,22222.22,2026-06-26,2026-02-19,Data & AI,Healthcare,New Business
+OPP-2026-0045,Ahmedabad Industries 45 - Data & AI,Ahmedabad Industries 45,West,India,Ahmedabad,Rohan Mehta,Closed Won,22222.22,1.0,22222.22,2026-12-02,2026-06-23,Data & AI,Retail,New Business
+OPP-2026-0046,Chennai Digital 46 - Data & AI,Chennai Digital 46,South,India,Chennai,Ananya Iyer,Proposal,5555.56,0.4,2222.22,2026-10-16,2026-06-02,Data & AI,Technology,Expansion
+OPP-2026-0047,Delhi Systems 47 - Cloud Security,Delhi Systems 47,North,India,Delhi,Simran Kaur,Closed Won,10000.0,1.0,10000.0,2026-04-12,2026-03-07,Cloud Security,Retail,Renewal
+OPP-2026-0048,Bhubaneswar Systems 48 - OCI Infrastructure,Bhubaneswar Systems 48,East,India,Bhubaneswar,Rahul Sen,Negotiation,66666.67,0.65,43333.33,2026-08-25,2026-03-26,OCI Infrastructure,Technology,Expansion
+OPP-2026-0049,Ahmedabad Digital 49 - Observability,Ahmedabad Digital 49,West,India,Ahmedabad,Rohan Mehta,Negotiation,22222.22,0.75,16666.67,2026-10-06,2026-06-28,Observability,BFSI,New Business
+OPP-2026-0050,Kochi Enterprises 50 - Data & AI,Kochi Enterprises 50,South,India,Kochi,Ananya Iyer,Closed Lost,8333.33,0.0,0.0,2026-11-24,2026-06-07,Data & AI,Manufacturing,Renewal
+OPP-2026-0051,Noida Holdings 51 - Cloud Security,Noida Holdings 51,North,India,Noida,Simran Kaur,Qualification,50000.0,0.3,15000.0,2026-07-31,2026-06-05,Cloud Security,Manufacturing,Expansion
+OPP-2026-0052,Guwahati Industries 52 - OCI Infrastructure,Guwahati Industries 52,East,India,Guwahati,Madhurima Roy,Qualification,13333.33,0.15,2000.0,2026-08-30,2026-05-12,OCI Infrastructure,Logistics,New Business
+OPP-2026-0053,Pune Digital 53 - Observability,Pune Digital 53,West,India,Pune,Aarav Shah,Qualification,3888.89,0.15,583.33,2026-07-28,2026-03-04,Observability,Logistics,New Business
+OPP-2026-0054,Kochi Holdings 54 - Cloud Security,Kochi Holdings 54,South,India,Kochi,Ananya Iyer,Closed Won,10000.0,1.0,10000.0,2026-11-03,2026-07-03,Cloud Security,Manufacturing,New Business
+OPP-2026-0055,Delhi Enterprises 55 - OCI Infrastructure,Delhi Enterprises 55,North,India,Delhi,Arjun Singh,Negotiation,88888.89,0.75,66666.67,2026-10-03,2026-05-13,OCI Infrastructure,Telecom,New Business
+OPP-2026-0056,Guwahati Systems 56 - Cloud Security,Guwahati Systems 56,East,India,Guwahati,Ishita Das,Negotiation,33333.33,0.85,28333.33,2026-09-16,2026-06-02,Cloud Security,Telecom,Renewal
+OPP-2026-0057,Goa Industries 57 - Cloud Database,Goa Industries 57,West,India,Goa,Rohan Mehta,Negotiation,27777.78,0.75,20833.33,2026-07-26,2026-04-26,Cloud Database,Logistics,Renewal
+OPP-2026-0058,Kochi Industries 58 - Cloud Database,Kochi Industries 58,South,India,Kochi,Ananya Iyer,Qualification,27777.78,0.25,6944.44,2026-04-28,2026-01-20,Cloud Database,Healthcare,Expansion
+OPP-2026-0059,Delhi Digital 59 - Cloud Database,Delhi Digital 59,North,India,Delhi,Arjun Singh,Qualification,22222.22,0.25,5555.56,2026-08-30,2026-06-27,Cloud Database,Retail,Expansion
+OPP-2026-0060,Patna Enterprises 60 - Cloud Security,Patna Enterprises 60,East,India,Patna,Madhurima Roy,Negotiation,3888.89,0.8,3111.11,2026-07-04,2026-02-22,Cloud Security,Logistics,Renewal
